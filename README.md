@@ -75,11 +75,16 @@ Built a Random Forest model to predict:
 
 ---
 
-## Streamlit Dashboard
 
-A lightweight interactive dashboard was built using Streamlit to explore:
+## 🔗 Live Streamlit Dashboard
 
-- PnL distributions
+The interactive Streamlit dashboard is deployed and accessible here:
+
+👉 https://sentiment-trader-behavior-analysis-9rksnt8ph83wwwrlxjgwxp.streamlit.app/
+
+This dashboard allows dynamic exploration of:
+
+- PnL distribution by sentiment regime
 - Trade size behavior
 - Trade frequency
 - Summary statistics
