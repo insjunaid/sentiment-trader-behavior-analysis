@@ -127,6 +127,7 @@ streamlit run app.py
 ---
 
 ## Project Structure
+```
 sentiment-trader-behavior-analysis/
 │
 ├── sentiment_trader_behavior_analysis.ipynb
@@ -134,9 +135,9 @@ sentiment-trader-behavior-analysis/
 ├── merged_data.csv
 ├── requirements.txt
 ├── README.md
-
+```
 ---
 
 ## Conclusion
 
--This analysis demonstrates that market sentiment materially influences trader behavior and performance.
+- This analysis demonstrates that market sentiment materially influences trader behavior and performance.
