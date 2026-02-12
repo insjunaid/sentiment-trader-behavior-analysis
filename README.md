@@ -93,36 +93,36 @@ A lightweight interactive dashboard was built using Streamlit to explore:
 ```bash
 git clone https://github.com/YOUR_USERNAME/sentiment-trader-behavior-analysis.git
 cd sentiment-trader-behavior-analysis
-
----
-
+```
 
 ### 2. Create Virtual Environment
 ```bash
 python -m venv venv
 
---- 
+``` 
 
 ### 3. Activate Environment
 Windows
 
 ```bash
 venv\Scripts\activate
----
 
+```
 Mac/Linux
 
 ```bash
 source venv/bin/activate
----
+```
 
 ### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
----
+```
 ### 5. Run Dashboard
 ```bash
 streamlit run app.py
+
+```
 
 ---
 
@@ -139,4 +139,4 @@ sentiment-trader-behavior-analysis/
 
 ## Conclusion
 
-- This analysis demonstrates that market sentiment materially influences trader behavior and performance.
+-This analysis demonstrates that market sentiment materially influences trader behavior and performance.
