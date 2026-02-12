@@ -145,4 +145,4 @@ sentiment-trader-behavior-analysis/
 
 ## Conclusion
 
-- This analysis demonstrates that market sentiment materially influences trader behavior and performance.
+This analysis demonstrates that market sentiment materially influences trader behavior and performance.
